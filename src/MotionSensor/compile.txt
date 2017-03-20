@@ -1,0 +1,5 @@
+Sensor_cfg:
+g++ -o sensor_cfg `pkg-config gtkmm-2.4 goocanvasmm-1.0 --cflags --libs` -lserial sensor_cfg_app.cpp sensor_cfg.cpp MotionSensor.cpp
+
+Simple Demo:
+g++ -o simple_demo simple_demo.cpp MotionSensor.cpp -lserial
