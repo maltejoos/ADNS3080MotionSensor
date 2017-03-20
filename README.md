@@ -11,7 +11,7 @@ By interfacing the mouse sensor with a microcontroller and an USB device, combin
 * Measurement of yaw rate by combining two of the sensors
 * Powerfull and easy to use software interface
 
-##Paper
+## Paper
 2010 IEEE Intelligent Vehicles Symposium, San Diego, California
 
 [Low-Cost Sensors for Image based Measurement of 2D Velocity and Yaw Rate](./Paper.pdf)
